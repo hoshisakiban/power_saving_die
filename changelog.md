@@ -21,4 +21,4 @@
 
 # 提示
 
-**如果有bug或建议，可以去酷安@柊疏柚，GitHub@SuyuSakiko，进行反馈，我将尽量改进 ❤️
+如果有bug或建议，可以去酷安@柊疏柚，GitHub@SuyuSakiko，进行反馈，我将尽量改进 ❤️
